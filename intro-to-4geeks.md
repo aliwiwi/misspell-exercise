@@ -1,38 +1,38 @@
-¡¡Bienbenidos!! 🤩👏 Mi nmobre es Alejandro estoi escribiendo eztas palabraz luego de enzeñar y generar un inpacto en tantas vidas. Por fabor lean hazta el final, ¡trataré de no avurrirlos!
+¡¡Bienvenidos!! 🤩👏 Mi nombre es Alejandro estoy escribiendo estas palabras luego de enseñar y generar un impacto en tantas vidas. Por favor lean hasta el final, ¡trataré de no aburrirlos!
 
-## Lo que ya zaves
+## Lo que ya sabes
 
-Estas aquí para apremder a dezarrollar tus avilidades para progranar hasta un nivel en el puedas: 1️⃣ Comseguir trabajo, 2️⃣ Crear tu propia empresa y/o 3️⃣ Adaptarte mejor al nuevo mumdo. 
+Estas aquí para aprender a desarrollar tus habilidades para programar hasta un nivel en el puedas: 1️⃣ Comseguir trabajo, 2️⃣ Crear tu propia empresa y/o 3️⃣ Adaptarte mejor al nuevo mundo. 
 
-## Lo que ya zabíaz
+## Lo que ya sabías
 
-Tambiém estas aquí porque necesitas alluda, no sólo técnica sino tanbién espiritual. Digo esto de la manera más pragmática poisble.
+Tambien estas aquí porque necesitas ayuda, no sólo técnica sino también espiritual. Digo esto de la manera más pragmática posible.
 
 > La mayor pared que deberás derrumbar para convertirte en un/a desarrollador/a no está en el programa ni en el contenido, sino en tu mente.
 Vamos a cambiar la forma en que te has acostumbrado a aprender, la forma en que ves la vida, la manera en que te vendes (por lo tanto la manera en que te ves), estamos derribando las viejas ideas equivocadas sobre ti mism@, el reto y sobre tu vida profesional.
 
-### Estanos aquí para derribar 3 💻 Paredes respecto al Cudigo
+### Estamos aquí para derribar 3 💻 Paredes respecto al Codigo
 
-Durante los anos que han pasado henos idemtificado rasones específiacs por la cuales los estudiantes se frustran y dejan de intentar ser desarroyadores o no completan el curso y no consiguen trabaoj.
+Durante los años que han pasado hemos identificado razones específicas por la cuales los estudiantes se frustran y dejan de intentar ser desarrolladores o no completan el curso y no consiguen trabajo.
 
 
-#### Pareb #1: Comfiansa 🥺 (Síndrome del inpostor)
+#### Pared #1: Confianza 🥺 (Síndrome del impostor)
 
 ![Síndrome del Impostor](../../assets/images/6cf4655f-665f-4f68-b021-f34238cedd69.png)
 
 En algún momento de nuestras vidas (en alguno más que otros) podemos haber pensado que no somos la persona más lista de una sala. Si continuamos pensando eso durante mucho tiempo y no nos sentimos cómodos con cualquier disciplina, incluso podemos llegar a pensar que no somos inteligentes ¡Mentira!¡Nada que ver! Tu eres parte de esta academia, y eres muy inteligente, nosotros estamos para apoyarte y acompañarte en el proceso, para que puedas vivir de la programación, debes creer en eso ¡Especialmente cuando las cosas se ponen difíciles!
 
-> Si algún ejercicio o prollecto en particular te parece difícil, en vez de pensar que no sirves para esto, busca nuevas maneras de absorber el contenido. Habla con un mentor y te daremos exactamente lo que necesitas.
-Cualquier persona en genreal puede aprender a programar, la progranacion se vuelve más complicada cuando te espezializas más en tu carrera ( Inteligencia Artificial, Robótica, etc.) Puedes ganar una buena cantidad dinero sin tener que haber estudiado Matematícas, sin ser bueno con los números o sin aprender tan rápido cono otros.
+> Si algún ejercicio o proyecto en particular te parece difícil, en vez de pensar que no sirves para esto, busca nuevas maneras de absorber el contenido. Habla con un mentor y te daremos exactamente lo que necesitas.
+Cualquier persona en general puede aprender a programar, la programacion se vuelve más complicada cuando te especializas más en tu carrera ( Inteligencia Artificial, Robótica, etc.) Puedes ganar una buena cantidad dinero sin tener que haber estudiado Matematícas, sin ser bueno con los números o sin aprender tan rápido como otros.
 
 
-##### 📝 Rezeta para no perder la confiansa en ti
+##### 📝 Receta para no perder la confianza en ti
 
-1. **Evita estar atascado durante mucho tiempo:** Progarmar puede complicarse porque puedes estar a punto de rezolver el problema y quedarte atascado sin ver la respuesta. Quizás no sepas como empezar a resolver un problema y una conversación de 5 minutos con mentor te aclarará la mnete.
+1. **Evita estar atascado durante mucho tiempo:** Programar puede complicarse porque puedes estar a punto de resolver el problema y quedarte atascado sin ver la respuesta. Quizás no sepas como empezar a resolver un problema y una conversación de 5 minutos con un mentor te aclarará la mente.
 
-2. **abla con otros estudiantez:** Puede que pienses que eres el unico que no entiende, pero si hablas con otros compañeros veras que no eres solo tu y te dará confiansa para haecr preguntas.
+2. **Habla con otros estudiantes:** Puede que pienses que eres el unico que no entiende, pero si hablas con otros compañeros verás que no eres solo tu y te dará confianza para hacer preguntas.
 
-3. **abla con los memtores:** Una vos con experiencia siempre es buena, hay egresadoz y profesores que ya han pasado por momentos difíciles o que están con dificultades ¡en este mismo momento¡
+3. **Habla con los mentores:** Una vos con experiencia siempre es buena, hay egresados y profesores que ya han pasado por momentos difíciles o que están con dificultades ¡en este mismo momento!
 
 #### Pared #2: Confianza ✝
 
